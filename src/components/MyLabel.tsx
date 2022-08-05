@@ -1,6 +1,6 @@
 import './mylabel.css'
 
-interface Props {
+export interface Props {
    /**
    * This is the text that goes into the label
    */
